@@ -1,7 +1,7 @@
 - Hello 👋
-- I’m Alex. I'm currently trying to improve my skill in programming by working on projects. My main language C#, but I can also learn other languages if I am given time and a little bit of help. 
+- I’m Alex. I'm currently trying to improve my skill in programming by working on projects. I can currently code in Java and C#, but I want to learn C++ soon. 
 - I'm currently interested in game development, but I don't mind working on other projects if people want my help. 
-- I’m going to study computer science at university soon (probably next year) and then try to get a job in the game development industry.
+- I'm currently studying computer science at the University of Salford. In my free time, I either try and look for new projects to help out on or I work on current projects I have.
 - You can reach me either on discord at X_Dusks_X#2703 or write me an email at alex.mihai.200424@gmail.com. I am looking forward to meeting you. 👋
 
 <!---
